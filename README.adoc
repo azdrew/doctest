@@ -10,8 +10,8 @@ writing simple sectionless documents consisting only of a preamble.
 NOTE: The abstract, preface, appendix, bibliography, glossary and
 index section titles are significant ('specialsections').
 
-:toc: preamble
-:!toc-title:
+:toc:
+:toc-placement!:
 
 toc::[]
  
