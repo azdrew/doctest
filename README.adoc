@@ -10,7 +10,8 @@ writing simple sectionless documents consisting only of a preamble.
 NOTE: The abstract, preface, appendix, bibliography, glossary and
 index section titles are significant ('specialsections').
 
-
+:toc: macro
+:toclevels: 1
 :numbered!:
 [abstract]
 Example Abstract
