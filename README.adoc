@@ -12,6 +12,8 @@ index section titles are significant ('specialsections').
 
 :toc: preamble
 :!toc-title:
+
+toc::[]
  
 [abstract]
 Example Abstract
